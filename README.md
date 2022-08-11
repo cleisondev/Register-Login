@@ -1,7 +1,7 @@
 # Register-Login
 It's a login screen
 
-# <em>Tecnologias usadas🚀</em>
+# <em>Technologies🚀</em>
 
 <ul>
 <li>Html</li>
